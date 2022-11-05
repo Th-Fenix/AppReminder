@@ -1,5 +1,4 @@
 // Este es un react server component
-// 
 import {ListOfPosts} from './ListOfPosts'
 
 

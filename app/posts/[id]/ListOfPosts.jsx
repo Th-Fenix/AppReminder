@@ -5,7 +5,7 @@ const fetchPost = () => {
 }
 
 
-export default async function ListOfPosts (){
+export async function ListOfPosts (){
    
    const post = await fetchPost()
    
